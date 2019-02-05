@@ -1,15 +1,12 @@
-/* Style Sheet for bio */
-body {
-	font-family: Helvetica,Arial,sans-serif;
-}
-
+/* Styling sheet for resume*/
 .header{
 	background: #C7D5E7;
-	color: white;
-	text-align: center;
+	position: sticky;
+	top: 0;
 	padding-bottom: 20px;
 	padding-top: .1px;
-	top: 0;
+	text-align: center;
+	color: white;
 	line-height: 1;
 }
 
@@ -20,6 +17,7 @@ body {
     height: 120px;
     width: 4000px;
     left: -2000px;
+ 
     z-index: -1;
 }
 
@@ -35,21 +33,34 @@ body {
   color: mistyrose;
 }
 
+body {
+	font-family: Helvetica,Arial,sans-serif;
+}
+
 h1{
+	font-weight: normal;
+	text-align: center;
+}
+
+p, h2, h3, h4, ul{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h2{
+	line-height: .75;
+	font-weight: normal;
+}
+h3, h4{
+	line-height: .25;
+}
+
+h4{
 	font-weight: normal;
 }
 
-p{
-	margin-left: 10%;
-	margin-right: 10%;
-	text-align: justify;
-	line-height: 1.5;
-	padding-top: 20px;
-}
-
-img {
-	float:left;
-	vertical-align: top;
-	width: 45%;
-	padding-right: 14px;
+.date{
+	float: right;
+	font-weight: normal;
+	font-size: 16px;
 }
