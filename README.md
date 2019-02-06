@@ -1,1 +1,3 @@
-# github.io
+1. I have successfully made my personal tufts page redirect to my personal site hosted on GitHub. My GitHub repo contains accurate commit messages, making it easy to see the changes I made. Additionally my site contains all the requirements for my personal homepage, bio and resume. Finally, all HTML pages passed the HTML5 specifications and all CSS files passed CSS validation. I believe I followed all guidelines set in the assignment.
+2. I discussed my assignment with Matt (TA) and Sitara Rao, who helped me understand how to redirect my site. 
+3. It took me at least 6 hours to complete the assignment. If I had wanted to do the bare minimum, I could've done it in about 4 hours, but I enjoyed playing around with different styling capabilities.
